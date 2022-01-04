@@ -1,5 +1,9 @@
 # linxl-log
 
+## 引入
+
+`npm i linxl-log`
+
 ## 使用
 
 ### JavaScript
